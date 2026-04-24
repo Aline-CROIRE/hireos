@@ -9,7 +9,7 @@ const sampleCandidates = [
   {
     firstName: "Jean",
     lastName: "Mugisha",
-    email: "jean.m@example.com",
+    email: "jean.m@gmail.com",
     headline: "Senior Full-Stack Developer",
     location: "Kigali, Rwanda",
     skills: [
